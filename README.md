@@ -1,1 +1,1 @@
-https://noexanu.github.io/webdev/
+https://gallant-easley-a546a7.netlify.app/
